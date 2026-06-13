@@ -1,22 +1,8 @@
-<div align="center">
-
 # 📝 NOTE APP 📝
 
 ### 🚀 Simple • Fast • Lightweight Python Note Manager
 
-<br>
-
-<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/github/stars/Mohammadreza-46/note?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/Mohammadreza-46/note?style=for-the-badge">
-<img src="https://img.shields.io/github/repo-size/Mohammadreza-46/note?style=for-the-badge">
-<img src="https://img.shields.io/github/license/Mohammadreza-46/note?style=for-the-badge">
-
-<br><br>
-
 ### 📒 Organize Your Notes Easily
-
-</div>
 
 ---
 
@@ -91,7 +77,7 @@ This repository was created for:
 
 This project can help beginners understand important Python concepts such as:
 
-```text id="f8l2mq"
+```text
 ✔ Variables
 ✔ Functions
 ✔ Conditions
@@ -107,11 +93,10 @@ This project can help beginners understand important Python concepts such as:
 
 # 📂 Project Structure
 
-```bash id="e2rf17"
+```bash
 note/
 │
 ├── note.py
-├── notes.txt
 └── README.md
 ```
 
@@ -119,15 +104,11 @@ note/
 
 # 🛠️ Technologies Used
 
-<div align="center">
-
 | Technology | Usage                  |
 | ---------- | ---------------------- |
 | Python     | Main Application Logic |
 | TXT Files  | Data Storage           |
 | Console    | User Interface         |
-
-</div>
 
 ---
 
@@ -135,7 +116,7 @@ note/
 
 ## 1️⃣ Clone Repository
 
-```bash id="k8p5tm"
+```bash
 git clone https://github.com/Mohammadreza-46/note.git
 ```
 
@@ -143,7 +124,7 @@ git clone https://github.com/Mohammadreza-46/note.git
 
 ## 2️⃣ Enter Project Folder
 
-```bash id="u8j2qz"
+```bash
 cd note
 ```
 
@@ -151,13 +132,13 @@ cd note
 
 ## 3️⃣ Run Program
 
-```bash id="fw7h91"
+```bash
 python note.py
 ```
 
 or
 
-```bash id="1h2mdx"
+```bash
 python3 note.py
 ```
 
@@ -234,13 +215,9 @@ Possible future updates for the project:
 
 # 📸 Preview
 
-<div align="center">
-
 # 📝 + 🐍 + 📂
 
 ### Simple Yet Useful
-
-</div>
 
 ---
 
@@ -248,7 +225,7 @@ Possible future updates for the project:
 
 Developers can improve this project by adding:
 
-```python id="w2r7kb"
+```python
 - tkinter GUI
 - sqlite database
 - search functionality
@@ -269,7 +246,7 @@ If you would like to improve this project:
 
 ## Fork Repository
 
-```bash id="c8y7za"
+```bash
 git fork
 ```
 
@@ -277,7 +254,7 @@ git fork
 
 ## Create New Branch
 
-```bash id="6gj4p1"
+```bash
 git checkout -b feature-name
 ```
 
@@ -285,7 +262,7 @@ git checkout -b feature-name
 
 ## Commit Changes
 
-```bash id="6x2b9m"
+```bash
 git commit -m "Added new feature"
 ```
 
@@ -293,7 +270,7 @@ git commit -m "Added new feature"
 
 ## Push Changes
 
-```bash id="z4s8kp"
+```bash
 git push origin feature-name
 ```
 
@@ -315,16 +292,12 @@ If you enjoyed this project:
 
 # 👨‍💻 Developer
 
-<div align="center">
-
 ## Mohammadreza-46
 
 ### Python Developer
 
 GitHub:
 https://github.com/Mohammadreza-46
-
-</div>
 
 ---
 
@@ -334,14 +307,8 @@ This project is open-source and available under the MIT License
 
 ---
 
-<div align="center">
-
 # 📝 NOTE APP 📝
 
 ### Thank You For Visiting
 
-<br>
-
 ## 🚀 Keep Coding & Keep Learning
-
-</div>
